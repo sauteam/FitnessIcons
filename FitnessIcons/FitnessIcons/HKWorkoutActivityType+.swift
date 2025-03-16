@@ -1,10 +1,9 @@
 //
 //  HKWorkoutActivityType+.swift
 //  FitnessIcons
-//
+//  https://github.com/sauteam/FitnessIconss
 //  Created by scy on 2025/3/16.
 //
-// thank https://github.com/jason-dubon/WorkoutTypeExt
 
 import Foundation
 import SwiftUI
