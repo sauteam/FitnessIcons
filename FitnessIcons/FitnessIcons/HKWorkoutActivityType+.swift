@@ -11,7 +11,7 @@ import HealthKit
 
 extension HKWorkoutActivityType {
     /// API total 84 item
-    var allTypes: [HKWorkoutActivityType] {
+    static var allTypes: [HKWorkoutActivityType] {
         return [
             .americanFootball, .archery, .australianFootball, .badminton, .baseball, .basketball,
             .bowling, .boxing, .climbing, .cricket, .crossTraining, .curling,
